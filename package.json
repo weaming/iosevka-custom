@@ -1,0 +1,9 @@
+{
+  "name": "@weaming/iosevka-custom",
+  "version": "1.0.0",
+  "description": "Custom-built Iosevka web fonts: quasi-proportional body + monospace code blocks",
+  "files": [
+    "IosevkaWeb/WOFF2",
+    "IosevkaWebCode/WOFF2"
+  ]
+}
