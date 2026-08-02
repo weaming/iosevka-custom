@@ -1,0 +1,36 @@
+
+@font-face {
+	font-family: 'Iosevka WebCode Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2/IosevkaWebCode-Regular.woff2') format('woff2'), url('TTF/IosevkaWebCode-Regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka WebCode Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2/IosevkaWebCode-Italic.woff2') format('woff2'), url('TTF/IosevkaWebCode-Italic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka WebCode Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2/IosevkaWebCode-Bold.woff2') format('woff2'), url('TTF/IosevkaWebCode-Bold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka WebCode Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2/IosevkaWebCode-BoldItalic.woff2') format('woff2'), url('TTF/IosevkaWebCode-BoldItalic.ttf') format('truetype');
+}
